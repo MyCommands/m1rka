@@ -1,5 +1,6 @@
 @echo off
-title idi nahyq
-echo qq, lol
+title 123123
+echo haqq
+echo.
 pause
 exit
