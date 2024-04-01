@@ -1,6 +1,7 @@
 @echo off
-title 123123
-echo haqq
+color 4
+title idi nahyq
+echo SOSAT LOL
 echo.
 pause
 exit
